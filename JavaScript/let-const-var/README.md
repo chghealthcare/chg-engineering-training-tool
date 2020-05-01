@@ -12,6 +12,8 @@
 
 ## What happens if the declared variable is an object? Can you alter one of its properties?
 
+## What happens if you push an item onto a constant array e.g. `const people = []; people.push('James');`? Why?
+
 ## Can you change a variable defined using const after it's been declared?
 
 ## What happens when you define a variable using var? 
@@ -46,4 +48,7 @@ void function() {
 
 
 ## What is the difference between declaring a variable using let, const, and var?
+
+## Why should you use const over let when possible?
+
 
